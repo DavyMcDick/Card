@@ -59,13 +59,13 @@ button {
     margin-bottom: 24px;
 }
 
-.details h4 {
+.details h1 {
     font-size: 24px;
     font-weight: 900;
     margin-bottom: 12px;
 }
 
-.details h4:hover {
+.details h1:hover {
     font-size: 24px;
     font-weight: 900;
     margin-bottom: 12px;
